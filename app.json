@@ -1,0 +1,8 @@
+{
+    "name": "alexandra-app",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
