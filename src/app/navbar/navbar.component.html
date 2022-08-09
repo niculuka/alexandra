@@ -1,0 +1,71 @@
+<div class="container">
+    <div class="language">
+        <ul>
+            <li>
+                <a [class.color]="currentLanguage === 'german'" (click)="language('german')">de</a>
+            </li>
+            <li>|</li>
+            <li>
+                <a [class.color]="currentLanguage === 'english'" (click)="language('english')">en</a>
+            </li>
+            <li>|</li>
+            <li>
+                <a [class.color]="currentLanguage === 'romanian'" (click)="language('romanian')">ro</a>
+            </li>
+            <li class="pipeUp">|</li>
+            <li class="burger">
+                <label for="check" class="checkbtn" (click)="wideMenu()">
+                    {{wide ? "🗙": "☰" }}
+                </label>
+            </li>
+        </ul>
+    </div>
+
+    <input type="checkbox" id="check">
+
+    <div class="menu">
+        <ul>
+            <li>
+                <a [class.color]="currentId === 'section1'" (click)="toSection1('section1')">
+                    {{header.h1}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section2'" (click)="toSection2('section2')">
+                    {{header.h2}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section3'" (click)="toSection3('section3')">
+                    {{header.h3}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section4'" (click)="toSection4('section4')">
+                    {{header.h4}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section5'" (click)="toSection5('section5')">
+                    {{header.h5}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section6'" (click)="toSection6('section6')">
+                    {{header.h6}}
+                </a>
+            </li>
+            <li class="pipe">|</li>
+            <li>
+                <a [class.color]="currentId === 'section7'" (click)="toSection7('section7')">
+                    {{header.h7}}
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
