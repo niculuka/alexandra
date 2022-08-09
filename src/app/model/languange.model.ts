@@ -1,61 +1,64 @@
-export class Language {
-    titleA: string = "";
-    lineA: string = "";
-    lineB: string = "";
-
-    titleB: string = "";
-    lineC: string = "";
-    lineD: string = "";
-
-    title1: string = "";
-    paragraph11: string = "";
-    line11: string = "";
-    line12: string = "";
-    line13: string = "";
-    line14: string = "";
-    line15: string = "";
-    line16: string = "";
-
-    title2: string = "";
-    paragraph21: string = "";
-    line21: string = "";
-    line22: string = "";
-    line23: string = "";
-    line24: string = "";
-    line25: string = "";
-
-    title3: string = "";
-    paragraph31: string = "";
-    line31: string = "";
-    line32: string = "";
-    line33: string = "";
-    line34: string = "";
-
-    title4: string = "";
-    paragraph41: string = "";
-    line41: string = "";
-    line42: string = "";
-    line43: string = "";
-    paragraph42: string = "";
-    paragraph43: string = "";
-
-    title5: string = "";
-    paragraph51: string = "";
-
-    title6: string = "";
-    line61: string = "";
-    line62: string = "";
-    line63: string = "";
-    line64: string = "";
-    line65: string = "";
-    line66: string = "";
+export class NavbarLanguage {
+    h1: string = "";
+    h2: string = "";
+    h3: string = "";
+    h4: string = "";
+    h5: string = "";
+    h6: string = "";
+    h7: string = "";
 }
 
-export class HeaderLanguage {
-    header1: string = "";
-    header2: string = "";
-    header3: string = "";
-    header4: string = "";
-    header5: string = "";
-    header6: string = "";
+export class ContentLanguage {
+    tA: string = "";
+    tA_h1: string = "";
+    tA_h2: string = "";
+
+    tB: string = "";
+    tB_h1: string = "";
+    tB_h2: string = "";
+
+    t1: string = "";
+    t1_h1: string = "";
+    t1_h1_p1: string = "";
+    t1_h1_p2: string = "";
+    t1_h1_p3: string = "";
+    t1_h1_p4: string = "";
+    t1_h1_p5: string = "";
+    t1_h1_p6: string = "";
+
+    t2: string = "";
+    t2_h1: string = "";
+    t2_h1_p1: string = "";
+    t2_h1_p2: string = "";
+    t2_h1_p3: string = "";
+    t2_h1_p4: string = "";
+    t2_h1_p5: string = "";
+
+    t3: string = "";
+    t3_h1: string = "";
+    t3_h1_p1: string = "";
+    t3_h1_p2: string = "";
+    t3_h1_p3: string = "";
+    t3_h1_p4: string = "";
+
+    t4: string = "";
+    t4_h1: string = "";
+    t4_h1_p1: string = "";
+    t4_h1_p2: string = "";
+    t4_h1_p3: string = "";       
+
+    t5: string = "";
+    t5_h1: string = "";
+
+    t6: string = "";
+    t6_h1: string = "";
+    t6_h2: string = ""; 
+
+    t7: string = "";
+    t7_h1: string = "";
+    t7_h1_p1: string = "";
+    t7_h2: string = "";
+    t7_h2_p1: string = "";
+    t7_h3: string = "";
+    t7_h3_p1: string = "";
 }

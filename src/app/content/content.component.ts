@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { Language } from '../model/languange.model';
-import { GERMAN } from 'src/app/data/german';
-import { ROMANIAN } from '../data/romanian';
-import { ENGLISH } from '../data/english';
+import { GE_CONTENT } from 'src/app/data/german';
+import { RO_CONTENT } from '../data/romanian';
+import { EN_CONTENT } from '../data/english';
+import { ContentLanguage } from '../model/languange.model';
 
 @Component({
   selector: 'app-content',
@@ -13,24 +13,24 @@ export class ContentComponent implements OnInit {
 
   currentLanguage: string = "german"
 
-  language: Language = new Language();
+  language: ContentLanguage = new ContentLanguage();
 
   constructor() { }
 
   ngOnInit(): void {
-      this.language = GERMAN;
+      this.language = GE_CONTENT;
   }
 
   receiveEvent($event: any) {
     this.currentLanguage = $event;
     if (this.currentLanguage === "german") {
-      this.language = GERMAN;
+      this.language = GE_CONTENT;
     }
     if (this.currentLanguage === "english") {
-      this.language = ENGLISH;
+      this.language = EN_CONTENT;
     }
     if (this.currentLanguage === "romanian") {
-      this.language = ROMANIAN;
+      this.language = RO_CONTENT;
     }
   }
 

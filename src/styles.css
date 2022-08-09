@@ -2,8 +2,9 @@
 
 
 body {
-    max-width: 1200px;
+    max-width: 1300px;
     margin: auto;
-    
+    background-image: url("src/assets/images/axi90.png");
+    background-size: 100%;    
 }
 
