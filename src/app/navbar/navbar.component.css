@@ -35,7 +35,7 @@ input {
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  margin: auto 20px;
+  margin: auto;
   padding: 16px;
   font-size: 20px;
   background-color: white;

@@ -1,5 +1,5 @@
 .content {
-    margin: 0 18px;
+    margin: 0 40px;
 }
 
 .head {
@@ -27,6 +27,7 @@
 
 .paragraph {
     margin-right: 20px;
+    text-align: justify;
 }
 
 .photo {
@@ -34,8 +35,7 @@
 }
 
 img {
-    margin-top: 24px;
-    width: 200px;
+    width: 300px;
 }
 
 .head h1 {
@@ -61,7 +61,6 @@ section {
 }
 
 .line {
-    margin-left: 46px;
     font-size: 22px;
 }
 
@@ -97,6 +96,6 @@ hr {
     }    
 
     section {
-        scroll-margin-top: 230px;
+        scroll-margin-top: 250px;
     }
 }
