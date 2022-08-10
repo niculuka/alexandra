@@ -44,7 +44,7 @@ img {
 
 .head p {
     font-size: 20px;
-    margin-bottom: 0;
+    margin-bottom: 6px;
 }
 
 section {
@@ -64,7 +64,7 @@ section {
 
 .line {
     font-size: 22px;
-    margin-bottom: 0;
+    margin-bottom: 6px;
 }
 
 hr {
