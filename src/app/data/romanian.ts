@@ -57,7 +57,7 @@ export const RO_CONTENT: ContentLanguage = {
     t6_h2: "Serviciile mele sunt pentru adulți de la 18 ani până la seniori.",
 
     t7: "Contact",
-    t7_h1: "Adres: ",
+    t7_h1: "Adresa: ",
     t7_h1_p1: "Rosenhügelstraße 192a, 1130 Vienna (în cadrul centrului de reabilitare Rosenhügel).",
     t7_h2: "Email: ",
     t7_h2_p1: "neuropsy.raspop@gmail.com",
