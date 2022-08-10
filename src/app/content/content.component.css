@@ -62,9 +62,10 @@ section {
     font-size: 22px;
 }
 
-.line {
+ul {
+    list-style-type: none;
+    padding: 0;
     font-size: 22px;
-    margin-bottom: 6px;
 }
 
 hr {
@@ -110,12 +111,12 @@ hr {
         font-size: 26px;
     }
 
-    .head p {
+    ul {
         font-size: 18px;
     }
 
     .title {
-        font-size: 30px;
+        font-size: 28px;
         text-align: center;
     }
 
