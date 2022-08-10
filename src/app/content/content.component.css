@@ -1,5 +1,6 @@
-.content {
-    margin: 0 40px;
+.container {
+    margin-top: 200px;
+    padding: 0 3%;    
 }
 
 .head {
@@ -25,9 +26,8 @@
     flex-direction: row;
 }
 
-.paragraph {
-    margin-right: 20px;
-    text-align: justify;
+.describe {
+    padding-right: 10px;
 }
 
 .photo {
@@ -56,6 +56,7 @@ section {
 }
 
 .paragraph {
+    text-align: justify;
     line-height: 32px;
     font-size: 22px;
 }
@@ -68,10 +69,10 @@ hr {
     color: rgb(201, 201, 201);
 }
 
-@media (max-width: 830px) {
+@media (max-width: 850px) {
     .head {
         display: flex;
-        flex-direction: column;        
+        flex-direction: column;
     }
 
     .author {
@@ -84,18 +85,50 @@ hr {
     }
 
     section {
-        scroll-margin-top: 190px;
+        scroll-margin-top: 256px;
     }
 }
 
 @media (max-width: 550px) {
+    .container {
+        margin-top: 100px;
+    }
+
+    .description {
+        margin-right: 0;
+    }
 
     .author {
         margin-top: 30px;
+        margin-right: 0;
         flex-direction: column;
-    }    
-
-    section {
-        scroll-margin-top: 250px;
     }
+
+    .head h1 {
+        font-size: 26px;
+    }
+
+    .head p {
+        font-size: 18px;
+    }
+
+    .title {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .paragraph {
+        line-height: 32px;
+        font-size: 18px;
+        text-align: justify;
+    }
+
+    .line {
+        font-size: 18px;
+    }
+
+    img {
+        width: 250px;
+    }
+
 }
