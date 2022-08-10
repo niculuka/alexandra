@@ -12,8 +12,7 @@
 
 .burger {
   display: none;
-  margin-right: 18px;
-  font-size: 20px;
+  margin-right: 16px;
 }
 
 input {
@@ -67,8 +66,8 @@ a {
   }
 
   .burger {
-    display: flex;
-    justify-content: flex-end;
+    display: block;
+    float: right;
   }
 
   .language ul {

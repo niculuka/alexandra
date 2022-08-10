@@ -44,6 +44,7 @@ img {
 
 .head p {
     font-size: 20px;
+    margin-bottom: -16px;
 }
 
 section {
@@ -63,6 +64,7 @@ section {
 
 .line {
     font-size: 22px;
+    margin-bottom: -16px;
 }
 
 hr {
@@ -118,9 +120,9 @@ hr {
     }
 
     .paragraph {
-        line-height: 32px;
+        line-height: 22px;
         font-size: 18px;
-        text-align: justify;
+        text-align: left;
     }
 
     .line {
