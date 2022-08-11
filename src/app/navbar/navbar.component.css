@@ -11,9 +11,13 @@
 }
 
 .burger {
-  display: none;
+  /* display: none; */
   margin-right: 18px;
   font-size: 18px;
+}
+
+mat-icon {
+  vertical-align: middle;
 }
 
 input {
