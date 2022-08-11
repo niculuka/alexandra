@@ -50,10 +50,10 @@ export const GE_CONTENT: ContentLanguage = {
     t4_h1_p3: "• Verbesserung des psychischen Funktionierens.",    
     
     t5: "Über mich",
-    t5_h1: "Ich habe mein Diplomstudium für Psychologie an der Universität Wien abgeschlossen. Die postgraduale Ausbildung zur Klinischen Psychologie und die Weiterbildung zur Neuropsychologie schloss ich an der Österreichischen Akademie für Psychologie (AAP) ab. Während meiner Arbeit in der Rehabilitationsklinik Bad Pirawarth (Abteilung Neurologie) habe ich umfangreiche Erfahrung in der Arbeit mit Personen mit erworbenen Hirnschädigungen. Seit 2022 arbeite ich am Neurologischen Zentrum Rosenhügel und in eigener Praxis.",
+    t5_h1: "Ich habe mein Diplomstudium für Psychologie an der Universität Wien abgeschlossen. Die postgraduale Ausbildung zur Klinischen Psychologie und die Weiterbildung zur Neuropsychologie schloss ich an der Österreichischen Akademie für Psychologie (AAP) ab. Während meiner Arbeit in der Rehabilitationsklinik Bad Pirawarth (Abteilung Neurologie) habe ich umfangreiche Erfahrung in der Arbeit mit Personen mit erworbenen Hirnschädigungen gesammelt. Seit 2022 arbeite ich am Neurologischen Zentrum Rosenhügel und in eigener Praxis.",
 
     t6: "Kosten",
-    t6_h1: "Auf Anfrage bzw. nach Vereinbarung im Erstgespräch (keine Überweisung erforderlich).",
+    t6_h1: "Auf Anfrage bzw. nach Vereinbarung im Erstgespräch (keine ärztliche Überweisung erforderlich).",
     t6_h2: "Das Angebot richtet sich an alle Erwachsenen (ab 18 Jahren) bis zu Senioren.",
 
     t7: "Kontakt",

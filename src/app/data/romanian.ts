@@ -20,10 +20,10 @@ export const RO_CONTENT: ContentLanguage = {
     tB_h2: "Psiholog clinician",
 
     t1: "Neuropsihologia",
-    t1_h1: "Neuropsihologia reprezintă o disciplină aflată la granița dintre psihologie și științe neuronale, fiind încadrată în domeniul neuroștiintelor. Într-un sens restrâns, obiectul său principal este relația dintre creier și comportament. Atenție deosebită o primesc tulburările cognitive și comportamentale cauzate de afecțiuni traumatice ale sistemului central nervos, în special ale creierului. Pacienții clasici pentru cabinetul meu sunt persoanele cu:",
+    t1_h1: "Neuropsihologia reprezintă o disciplină aflată la granița dintre psihologie și științe neuronale, fiind încadrată în domeniul neuroștiintelor. Într-un sens restrâns, obiectul său principal este relația dintre creier și comportament. Atenție deosebită o primesc tulburările cognitive și comportamentale cauzate de afecțiuni traumatice ale sistemului nervos central, în special ale creierului. Pacienții clasici pentru cabinetul meu sunt persoanele cu:",
     t1_h1_p1: "• accidente vasculare cerebrale și hemoragii cerebrale,",
     t1_h1_p2: "• traumatisme craniene,",
-    t1_h1_p3: "• tumori cerebrale si boli inflamatoare ale creierului,",
+    t1_h1_p3: "• tumori cerebrale si boli inflamatorii ale creierului,",
     t1_h1_p4: "• demențe,",
     t1_h1_p5: "• M. Parkinson,",
     t1_h1_p6: "• leziuni cerebrale hipoxice.",

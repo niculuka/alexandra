@@ -20,7 +20,7 @@ export const EN_CONTENT: ContentLanguage = {
     tB_h2: "Clinical psychologist",
 
     t1: "Neuropsychology",
-    t1_h1: "Neuropsychology as an intersection between psychology and neurology focusses on disorders and abnor-malities of the central nervous system, especially the brain. The most frequently encountered neurological disorders associated with cognitive, emotional and behavioural impairments are:",
+    t1_h1: "Neuropsychology as an intersection between psychology and neurology focusses on disorders and abnormalities of the central nervous system, especially the brain. The most frequently encountered neurological disorders associated with cognitive, emotional and behavioural impairments are:",
     t1_h1_p1: "• stroke and cerebral hemorrhage,",
     t1_h1_p2: "• traumatic brain injury after a blow or jolt to the head,",
     t1_h1_p3: "• tumors and inflammatory disorders of the brain,",
@@ -37,7 +37,7 @@ export const EN_CONTENT: ContentLanguage = {
     t2_h1_p5: "• affect.",
 
     t3: "Neuropsychological treatment",
-    t3_h1: "Neuropsychological treatment is designed to facilitate the recovery of impaired cognitive function (due to changes in the brain) or compensation for the deficit through appropriate strategies. In the case of degen-erative diseases, the neuropsychological therapy aims, where possible, to strengthen the remaining re-sources of the person.",
+    t3_h1: "Neuropsychological treatment is designed to facilitate the recovery of impaired cognitive function (due to changes in the brain) or compensate for the deficit through appropriate strategies. In the case of degenerative diseases, the neuropsychological therapy aims, where possible, to strengthen the remaining resources of the person.",
     t3_h1_p1: "",
     t3_h1_p2: "",
     t3_h1_p3: "",
@@ -50,7 +50,7 @@ export const EN_CONTENT: ContentLanguage = {
     t4_h1_p3: "• improve the mental functioning and promote personal development.",    
     
     t5: "About me",
-    t5_h1: "I have been working for several years in the rehabilitation clinic Bad Pirawarth (Neurology Department). I am currently working both privately and in the NRZ Rosenhügel providing specialist neuropsychological assessment and intervention to clients with brain injuries and conditions. I have a Masters of Science de-gree in Psychology (University of Vienna), a Postgraduate Diploma in Clinical Psychology (Austrian Acad-emy of Psychology), and a Postgraduate Diploma in Clinical Neuropsychology (Austrian Academy of Psy-chology).",
+    t5_h1: "I worked for several years in the rehabilitation clinic Bad Pirawarth (Neurology Department). I am currently working both privately and in the NRZ Rosenhügel providing specialist neuropsychological assessment and intervention to clients with brain injuries and conditions. I have a Masters of Science degree in Psychology (University of Vienna), a Postgraduate Diploma in Clinical Psychology (Austrian Academy of Psychology), and a Postgraduate Diploma in Clinical Neuropsychology (Austrian Academy of Psychology).",
 
     t6: "Prices",
     t6_h1: "On request or by agreement in the first consultation.",

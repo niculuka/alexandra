@@ -24,10 +24,11 @@
 .about {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .describe {
-    padding-right: 10px;
+    padding-right: 14px;
 }
 
 .photo {
@@ -89,7 +90,7 @@ hr {
     }
 
     section {
-        scroll-margin-top: 256px;
+        scroll-margin-top: 200px;
     }
 }
 
@@ -130,6 +131,10 @@ hr {
     
     img {
         width: 250px;
+    }
+
+    section {
+        scroll-margin-top: 256px;
     }
 
 }
