@@ -7,7 +7,7 @@ export const RO_NAVBAR: NavbarLanguage = {
   h4: "Psihologia clinică",
   h5: "Despre mine",
   h6: "Tarife",
-  h7: "Contact1",
+  h7: "Contact",
 }
 
 export const RO_CONTENT: ContentLanguage = {
